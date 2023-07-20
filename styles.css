@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body {
+	width: 1100px;
+}
+td:nth-child(odd) {
+	width:200px;
+}
+
+td:nth-child(even) {
+  width:600px;
+}
